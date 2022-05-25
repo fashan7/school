@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html { height: 100%; }
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #00ff0863;
+  color: white;
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+a { color:white; }
+
+.header {
+  padding: 40px;
+  padding-top: 100px;
+}
+.header h1 {
+  font-size: 60pt;
+  margin-bottom: 0;
+  color: white;
+  letter-spacing: -2px;
+  font-weight: bold;
+}
+.header p { font-size: 200%; }
+.header p.small { font-size: 130%; }
+.header h1, .header p {
+  margin: 15px auto;
+}
+.logo {
+  margin: 30px auto 10px auto;
+  width: 180px;
+  padding: 10px;
+  border-radius: 4px;
+  background: rgba(0,0,0,0.3);
+}
+.logo img {
+  vertical-align: middle;
+}
+
+@media (max-width: 700px) {
+  .header {
+    padding-top: 30px;
+  }
+}
+
+/* Sticker Mule */
+body.sticker-mule {
+  background: url("../img/herman-fly.png") bottom center no-repeat #ff7100;
+}
+
+@media (max-height: 900px) {
+  body.sticker-mule {
+    background-size: auto 40%;
+  }
+}
+
+@media (max-width: 700px) {
+  body.sticker-mule {
+    padding-bottom: 300px;
+    background-size: 300px auto;
+  }
+}
+
+@media (max-height: 500px) {
+  body.sticker-mule {
+    background-image: none;
+  }
+}
+
+/* Button Frog */
+body.button-frog { background: #2ddf78; }
+
+/* Magnet Duck */
+body.magnet-duck { background: #fb3451; }
+
+/* Custom Bags */
+body.custom-bags { background: #119ee0; }
