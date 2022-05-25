@@ -1,0 +1,699 @@
+[09-Mar-2018 10:37:50 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:37:50 America/Chicago] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home3/sfsolution/schoolexam.thewebaxis.com/core/bootstrap.php on line 7
+[09-Mar-2018 10:37:50 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home3/sfsolution/schoolexam.thewebaxis.com/core/bootstrap.php on line 7
+[09-Mar-2018 10:42:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:02 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:03 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:14 America/Chicago] PHP Deprecated:  Non-static method commonSql::display() should not be called statically, assuming $this from incompatible context in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 13
+[09-Mar-2018 10:44:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php:13) in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 24
+[09-Mar-2018 10:44:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:44:24 America/Chicago] PHP Deprecated:  Non-static method commonSql::display() should not be called statically, assuming $this from incompatible context in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 13
+[09-Mar-2018 10:44:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php:13) in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 24
+[09-Mar-2018 10:45:18 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:45:19 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:45:23 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:45:23 America/Chicago] PHP Deprecated:  Non-static method commonSql::display() should not be called statically, assuming $this from incompatible context in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 13
+[09-Mar-2018 10:45:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php:13) in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 24
+[09-Mar-2018 10:45:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:45:32 America/Chicago] PHP Deprecated:  Non-static method commonSql::display() should not be called statically, assuming $this from incompatible context in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 13
+[09-Mar-2018 10:45:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php:13) in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 24
+[09-Mar-2018 10:45:49 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:45:49 America/Chicago] PHP Deprecated:  Non-static method commonSql::display() should not be called statically, assuming $this from incompatible context in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 13
+[09-Mar-2018 10:45:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php:13) in /home3/sfsolution/schoolexam.thewebaxis.com/controller/loginController.php on line 24
+[09-Mar-2018 10:47:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:30 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:47:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:48:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:48:04 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 10:49:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:49:26 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:49:26 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:49:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:49:37 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 10:50:06 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:50:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:50:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:50:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:50:20 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 10:51:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:51:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:51:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:51:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:51:34 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 10:57:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:58:01 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 10:58:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:33 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 11:05:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:05:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:09:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:09:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:29 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:31 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:10:31 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:28:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:28:02 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:28:02 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:30:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:30:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:30:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:34:33 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:34:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:34:36 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:34:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:34:44 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[09-Mar-2018 11:51:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:51:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 11:51:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 12:37:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 12:37:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:17:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:17:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:18:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:18:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:18:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 13:18:32 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 19:32:07 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 20:41:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 20:41:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Mar-2018 20:41:11 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2018 03:51:59 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2018 03:52:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Mar-2018 03:52:00 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2018 21:22:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2018 21:22:51 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Mar-2018 21:22:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Mar-2018 20:14:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Mar-2018 20:14:34 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Mar-2018 20:14:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Mar-2018 22:18:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[12-Mar-2018 22:18:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Jul-2018 07:02:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Jul-2018 07:02:39 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:50:04 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:50:05 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:50:08 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:50:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:50:27 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:51:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 01:51:24 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:09 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[16-Jul-2018 02:03:20 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:50:37 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:50:38 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:50:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:50:50 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:50:53 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:10 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:13 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:45 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home3/sfsolution/schoolexam.thewebaxis.com/core/database/QueryBuilder.php on line 39
+[17-Jul-2018 02:51:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:51:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:52:03 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[17-Jul-2018 02:52:21 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 14:43:44 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 14:43:45 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 14:43:46 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[30-Jul-2018 14:43:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Aug-2018 01:13:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Aug-2018 01:13:17 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Aug-2018 10:22:15 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[11-Aug-2018 11:28:48 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Sep-2018 07:15:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Sep-2018 07:15:55 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Sep-2018 02:14:54 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[09-Sep-2018 02:54:35 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
