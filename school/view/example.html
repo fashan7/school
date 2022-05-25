@@ -1,0 +1,106 @@
+<tbody>
+                <?php 
+//                $i = 1;
+//                foreach($result as $row){
+//                    $feeSubCatResult = $mat->getSubcategoryFee($row['fee_category_sub']);
+//                    $result1 = $mat->feeAllocationListP1($row['grade'], $row['student']);
+//                    
+//                    $rowFeemainCategory = $mat->SelectFeeCategory($feeSubCatResult['fee_category']);
+//                    $prefix = $rowFeemainCategory['prefix'];
+//                    $rowmaxreciptId = $mat->getMaxInvoiceofFeepay($row['fee_category_sub']);
+//                    if($rowmaxreciptId == '0')
+//                    {
+//                        $reciptId = $prefix.'0001';
+//                    }
+//                    else
+//                    {
+//                        $incrementorder = $rowmaxreciptId + 1;
+//                        $reciptId = $prefix.str_pad($incrementorder, 4, '0', STR_PAD_LEFT);
+//                    }
+                    ?>
+<!--
+                    <tr>
+                        <td><?=$reciptId?></td>
+                        <td><?=$feeSubCatResult['sub_category_name']?></td>
+                        <td>
+                            <select name="installment<?=$i?>" id="installment<?=$i?>" class="form-control select2" style="width: 100%;" onchange="gettotal()">
+                                <option value="">Installment List</option>
+-->
+                                <?php 
+//                                $resultFee = $mat->feeStype($row['fee_category_sub']);
+//                                foreach($resultFee as $rowFee){
+//                                    $resultcheck = $mat->StudentCheckFees($students, $row['fee_category_sub'], $rowFee['id']);
+//                                    if($resultcheck['feetype_id'] == $rowFee['id'])
+//                                    {
+//                                       ?>
+<!--//                                        <option disabled><?=$feeSubCatResult['feetype']." (".$rowFee['start_date']." / ".$rowFee['end_date'].")"?></option>-->
+//                                        <?php 
+//                                    }
+//                                    else
+//                                    {
+//                                        $resultchecknot = $mat->StudentCheckFeesnotpaid($students, $row['fee_category_sub'], $rowFee['id']);
+//                                        if($resultchecknot['feetype_id'] == $rowFee['id'])
+//                                        {
+////                                        ?>
+<!--////                                        <option value="<?=$rowFee['id']?>"><?=$feeSubCatResult['feetype']." (".$rowFee['start_date']." / ".$rowFee['end_date'].")"?></option>-->
+////                                        <?php
+////                                        }
+////                                        else
+////                                        {
+////                                        ?>
+<!--////                                        <option value="<?=$rowFee['id']?>"><?=$feeSubCatResult['feetype']." (".$rowFee['start_date']." / ".$rowFee['end_date'].")"?></option>-->
+////                                        <?php
+////                                        }
+//                                    }
+//                                    
+//                                }                                
+                                ?>
+<!--
+                            </select>
+                        </td>
+                        <td><?=$result1['amount']?></td>
+                        <td>
+-->
+                        <?php 
+//                        $feetype = $feeSubCatResult['feetype'];
+//                        $resultFee2 = $mat->feeStype($row['fee_category_sub']);
+//                        $increment = 0; $balance = 0;
+//                        foreach($resultFee2 as $rowFee){
+//                            $resultcheck = $mat->StudentCheckFees($students, $row['fee_category_sub'], $rowFee['id']);
+//                            if($resultcheck['feetype_id'] == $rowFee['id'])
+//                            {}
+//                            else
+//                            {
+//                                $resultchecknot = $mat->StudentCheckFeesnotpaid($students, $row['fee_category_sub'], $rowFee['id']);
+//                                if($resultchecknot['feetype_id'] == $rowFee['id'])
+//                                {
+//                                    $increment += 1;
+//                                    $balance += $resultchecknot['balance_amount'];
+//                                }
+//                                else
+//                                {
+//                                    $increment += 1;
+//                                    $balance += $result1['amount'];
+//                                }
+//                            }                                
+//                        }         
+//                        $payamount = $balance;
+                        ?>
+<!--
+                        <input type="hidden" class="form-control" id="prefix<?=$i?>" name="prefix<?=$i?>"  autocomplete="off" value="<?=$prefix?>">
+                        <input type="hidden" class="form-control" id="subcatid<?=$i?>" name="subcatid<?=$i?>"  autocomplete="off" value="<?=$row['fee_category_sub']?>">
+                        <input type="hidden" class="form-control" id="amount<?=$i?>" name="amount<?=$i?>"  autocomplete="off" value="<?=$result1['amount']?>">
+                        <input type="text" class="form-control" id="payamount<?=$i?>" name="payamount<?=$i?>"  autocomplete="off" value="<?=$payamount?>" onkeypress="return numOnly(event);" onchange="calculation()"></td>
+                        <td><input type="text" class="form-control" id="fine<?=$i?>" name="fine<?=$i?>"  autocomplete="off" value="0" onkeypress="return numOnly(event);" onchange="calculation()"></td>
+                        <td><input type="text" class="form-control" id="discount<?=$i?>" name="discount<?=$i?>"  autocomplete="off" value="0" onkeypress="return numOnly(event);" onchange="calculation()"></td>
+                        <td><input type="text" class="form-control" id="totalcal<?=$i?>" name="totalcal<?=$i?>"  autocomplete="off" value="<?=$result1['amount']?>" readonly onkeypress="return numOnly(event);"></td>
+                        <td><input type="checkbox" id="checkboxSelect<?=$i?>" name="checkboxSelect<?=$i?>" value="yes" onchange="gettotal()"></td>
+-->
+<!--
+                    </tr>
+                    <?php
+//                    $i++;
+//                }
+                ?>
+            </tbody>
+-->
